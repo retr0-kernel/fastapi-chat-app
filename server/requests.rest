@@ -12,9 +12,9 @@ POST http://localhost:3001/signup
 Content-Type: application/json
 
 {
-    "username": "zack123", 
+    "username": "krish203", 
     "secret": "pass1234", 
-    "email": "zack@gmail.com", 
-    "first_name": "Zack", 
-    "last_name": "Engine"
+    "email": "krish@gmail.com", 
+    "first_name": "Krish", 
+    "last_name": "Srivastava"
 }
